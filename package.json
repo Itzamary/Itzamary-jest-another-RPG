@@ -2,7 +2,7 @@
   "name": "jest-another-rpg",
   "version": "1.0.0",
   "description": "Create a game ran in the node environment",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "jest"
   },

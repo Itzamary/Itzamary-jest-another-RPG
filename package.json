@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Itzamary/Itzamary-jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^28.0.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.5"
   }
 }

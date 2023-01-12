@@ -10,7 +10,7 @@
 
 ## How to test
 1. The file should be open in vs-code along with a terminal in the root directory.
-2. In the termainl type ``npm run test``.
+2. In the terminal type ``npm run test``.
 3. The terminal should show weather all the tests passed or failed.
 
 ## Technologies / Frameworks
